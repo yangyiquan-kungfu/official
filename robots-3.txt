@@ -1,0 +1,10 @@
+# Yangyiquan Fa — Kung Fu y Defensa Personal en Granada
+# robots.txt — https://yangyiquan.international
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://yangyiquan.international/sitemap.xml
+
+# No disallow — todo indexable
